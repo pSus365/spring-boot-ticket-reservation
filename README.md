@@ -69,7 +69,3 @@ Projekt zrealizowany w ramach zaliczenia na ocenę **5.0 (Bardzo dobry)**. Jest 
 * `POST /api/reservations` - Tworzenie nowej rezerwacji. API weryfikuje token, sprawdza logikę biletów, aktualizuje bazę i asynchronicznie deleguje resztę do RabbitMQ.
 * `GET /api/reservations/{id}` - Pobieranie potwierdzonej rezerwacji.
 
-## 🔗 Wymagania formalne
-
-* **Link do repozytorium GitHub**: [https://github.com/pSus365/REST-API---system-rezerwacji-bilet-w.git](https://github.com/pSus365/REST-API---system-rezerwacji-bilet-w.git)
-* **Demo video (2-3 min)**: `[TUTAJ_WKLEJ_LINK_DO_FILMIKU]`
